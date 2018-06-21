@@ -1,8 +1,8 @@
 # blockchain-spv
 
 [![npm version](https://img.shields.io/npm/v/@axerunners/blockchain-spv.svg)](https://www.npmjs.com/package/@axerunners/blockchain-spv)
-[![Build Status](https://travis-ci.com/AXErunners/blockchain-spv?branch=master)](https://travis-ci.com/AXErunners/blockchain-spv)
-[![Dependency Status](https://david-dm.org/axerunners/blockchain-spv.svg)](https://david-dm.org/axerunners/blockchain-spv
+[![Build Status](https://travis-ci.com/AXErunners/blockchain-spv.svg?branch=master)](https://travis-ci.com/AXErunners/blockchain-spv)
+[![Dependency Status](https://david-dm.org/axerunners/blockchain-spv.svg)](https://david-dm.org/axerunners/blockchain-spv)
 
 **Stores blockchain headers and verifies transactions with SPV**
 
